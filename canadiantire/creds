@@ -1,7 +1,0 @@
-[email]
-user = 
-pass = 
-
-# monitored items should be separated with comma followed by whitespace (", ")
-[items]
-monitored = 0540260p, 0542992p, 1992228p
